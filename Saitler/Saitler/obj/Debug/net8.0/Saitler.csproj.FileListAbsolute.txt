@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\Saitler\Saitler\bin\Debug\net8.0\Saitler.exe
+C:\Users\elsad\source\repos\Saitler\Saitler\bin\Debug\net8.0\Saitler.deps.json
+C:\Users\elsad\source\repos\Saitler\Saitler\bin\Debug\net8.0\Saitler.runtimeconfig.json
+C:\Users\elsad\source\repos\Saitler\Saitler\bin\Debug\net8.0\Saitler.dll
+C:\Users\elsad\source\repos\Saitler\Saitler\bin\Debug\net8.0\Saitler.pdb
+C:\Users\elsad\source\repos\Saitler\Saitler\obj\Debug\net8.0\Saitler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\Saitler\Saitler\obj\Debug\net8.0\Saitler.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\Saitler\Saitler\obj\Debug\net8.0\Saitler.AssemblyInfo.cs
+C:\Users\elsad\source\repos\Saitler\Saitler\obj\Debug\net8.0\Saitler.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\Saitler\Saitler\obj\Debug\net8.0\Saitler.dll
+C:\Users\elsad\source\repos\Saitler\Saitler\obj\Debug\net8.0\refint\Saitler.dll
+C:\Users\elsad\source\repos\Saitler\Saitler\obj\Debug\net8.0\Saitler.pdb
+C:\Users\elsad\source\repos\Saitler\Saitler\obj\Debug\net8.0\Saitler.genruntimeconfig.cache
+C:\Users\elsad\source\repos\Saitler\Saitler\obj\Debug\net8.0\ref\Saitler.dll
