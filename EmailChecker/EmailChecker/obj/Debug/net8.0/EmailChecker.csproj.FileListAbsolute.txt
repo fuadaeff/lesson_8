@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\bin\Debug\net8.0\EmailChecker.exe
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\bin\Debug\net8.0\EmailChecker.deps.json
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\bin\Debug\net8.0\EmailChecker.runtimeconfig.json
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\bin\Debug\net8.0\EmailChecker.dll
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\bin\Debug\net8.0\EmailChecker.pdb
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\obj\Debug\net8.0\EmailChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\obj\Debug\net8.0\EmailChecker.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\obj\Debug\net8.0\EmailChecker.AssemblyInfo.cs
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\obj\Debug\net8.0\EmailChecker.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\obj\Debug\net8.0\EmailChecker.dll
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\obj\Debug\net8.0\refint\EmailChecker.dll
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\obj\Debug\net8.0\EmailChecker.pdb
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\obj\Debug\net8.0\EmailChecker.genruntimeconfig.cache
+C:\Users\elsad\source\repos\EmailChecker\EmailChecker\obj\Debug\net8.0\ref\EmailChecker.dll
